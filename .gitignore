@@ -1,0 +1,12 @@
+.venv/
+test/
+train/
+valid/
+test.csv
+train.csv
+valid.csv
+interrater.csv
+anatomy.pt
+prostate158-main/
+output/
+prostate/
