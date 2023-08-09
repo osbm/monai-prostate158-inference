@@ -1,0 +1,7 @@
+monai
+pandas
+numpy
+torch
+nibabel
+scipy
+scikit-image
