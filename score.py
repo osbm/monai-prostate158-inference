@@ -32,8 +32,3 @@ scores = np.array(scores)
 print("DICE scores:\n", scores.reshape(19, 3))
 
 print("Mean DICE scores:", np.mean(scores.reshape(19, 3), axis=0))
-
-
-print("done")
-
-    
