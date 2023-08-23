@@ -5,3 +5,5 @@ torch
 nibabel
 scipy
 scikit-image
+keras
+tensorflow
